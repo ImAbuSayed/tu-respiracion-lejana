@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu respiración lejana
+
+This log tracks the cryptographic history and versioning for the song **Tu respiración lejana** (tu-respiracion-lejana).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:49:08.292714 | `v1` | `0905298af94ec2bf1440d08927e0030b91118418179d2c0a219424bc69d0ddb1` | `4decbd7eed56b8375ba1d15c4d39b9e75644702d33178aad0ec39451f65149ca` | `2026-06-18_tu-respiracion-lejana-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
