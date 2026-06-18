@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-respiracion-lejana/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu respiración lejana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-respiracion-lejana/) |
+| **Get License** | [Get License For Tu respiración lejana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-respiracion-lejana/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento tu respiración lejana aquí en mi piel
+> Baby, tú eres la jefa, tus labios saben a miel
+> Medianoche en Madrid, perdiendo el control
+> Bailando reggaetón hasta que salga el sol
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
